@@ -1,4 +1,4 @@
-# digit_recognizer
+# Handwritten Digit Recognizer
 
 ## Description
 The app is a handwritten digit rezcognizer.
